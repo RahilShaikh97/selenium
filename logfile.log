@@ -1,0 +1,28 @@
+2022-08-11 03:20:10,058 INFO  [Log] Application Opened 
+2022-08-11 03:20:11,527 INFO  [Log] login.. 
+2022-08-11 03:20:11,594 INFO  [Log] into frame 
+2022-08-11 03:20:18,608 INFO  [Log] adding employee 
+2022-08-11 03:20:18,614 INFO  [Log] exit 
+2022-08-11 03:20:18,833 INFO  [Log] logout 
+2022-08-11 03:20:19,661 INFO  [Log] Application close 
+2022-08-11 17:38:45,597 INFO  [Log] Application Opened 
+2022-08-11 17:38:46,329 INFO  [Log] login.. 
+2022-08-11 17:38:46,359 INFO  [Log] into frame 
+2022-08-11 17:38:53,206 INFO  [Log] adding employee 
+2022-08-11 17:38:53,214 INFO  [Log] exit 
+2022-08-11 17:38:53,928 INFO  [Log] logout 
+2022-08-11 17:38:55,665 INFO  [Log] Application close 
+2022-08-11 17:41:38,377 INFO  [Log] Application Opened 
+2022-08-11 17:41:39,565 INFO  [Log] login.. 
+2022-08-11 17:41:39,595 INFO  [Log] into frame 
+2022-08-11 17:41:41,770 INFO  [Log] adding employee 
+2022-08-11 17:41:41,777 INFO  [Log] exit 
+2022-08-11 17:41:41,995 INFO  [Log] logout 
+2022-08-11 17:41:42,958 INFO  [Log] Application close 
+2022-08-11 17:52:53,615 INFO  [Log] Application Opened 
+2022-08-11 17:52:54,210 INFO  [Log] login.. 
+2022-08-11 17:52:54,247 INFO  [Log] into frame 
+2022-08-11 17:53:01,710 INFO  [Log] adding employee 
+2022-08-11 17:53:01,719 INFO  [Log] exit 
+2022-08-11 17:53:01,947 INFO  [Log] logout 
+2022-08-11 17:53:02,982 INFO  [Log] Application close 
